@@ -1,0 +1,3 @@
+This file originally was created by 💾🌵 for use with their Emoji Keyboard. While functionally complete for most average users, not all `ctrl-KEY` combinations were mapped when not in "emoji mode" (which you enter via CapsLock.) As a developer, these key combinations are _heavily_ used, so I added a full set of mapped `ctrl-KEY` combinations. I've attempted several times to contact 💾🌵 about the missing keys, and to offer this fix back to them, with no response, so after several months I am releasing this back to the wild.
+
+You can find more information about 💾🌵 and their entirely fun Emoji Keyboard [at their website](http://emojikeyboard.club/).
